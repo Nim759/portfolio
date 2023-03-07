@@ -4,7 +4,7 @@ import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
 import Heroimageproject from "../../components/Heroimageproject/Heroimageproject";
 import Details from "../../components/Details/Details";
-import ProjectName from "../../components/Projectname/ProjectName";
+import Work from "../../components/Work/Work";
 
 
 
@@ -13,7 +13,7 @@ const Project = ( )=>{
         <div>
             <Navbar/>
             <Heroimageproject heading="PROJECTS" text="some of my recent works"/>
-            <ProjectName/>
+           <Work/>
             <Details/>
             <Footer/>
         </div>
