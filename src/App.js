@@ -1,4 +1,4 @@
-import react from "react";
+
 import {
   BrowserRouter,
   Routes,
@@ -9,6 +9,7 @@ import Home from "./pages/Home/Home";
 import Contact from "./pages/Contact/Contact";
 import About from "./pages/About/About";
 import Project from "./pages/Projects/Project";
+import Certificate from "./pages/Certificates/Certificates";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Route path="/Contact" element={<Contact/>}/>
       <Route path="/About" element={<About/>}/>
       <Route path="/Project" element={<Project/>}/>
+      <Route path="/Certificates" element={<Certificate/>}/>
         
         
         

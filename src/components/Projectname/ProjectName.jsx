@@ -1,7 +1,7 @@
 import "./ProjectName.css";
 
 import React from 'react'
-import pic2 from "../../assests/pic2.jpg"
+
 import { NavLink } from "react-router-dom";
 
 const ProjectName = (props) => {
