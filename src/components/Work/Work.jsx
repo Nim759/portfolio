@@ -8,7 +8,6 @@ import React from 'react'
 const Work = () => {
   return (
     <div className="work1-container">     
-    <h2 className="project-heading">PROJECTS</h2>
     <div className="project-container">
         {WorkData.map((val,ind)=>{
           return(

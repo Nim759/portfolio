@@ -6,7 +6,6 @@ const WorkData = [
     {
         imgsrc:pic1,
         title:"sri lankan camping guide",
-        text:"Web application to campers and camping site owners tobook their needs and get details about Sri Lankan camping.Technologies -MERN stack",
         view:"https:url.com"
 
     },
@@ -14,7 +13,6 @@ const WorkData = [
     {
         imgsrc:pic2,
         title:"sri lankan camping guide",
-        text:"Web application to campers and camping site owners tobook their needs and get details about Sri Lankan camping.Technologies -MERN stack",
         view:"https:url.com"
 
     },
@@ -22,7 +20,6 @@ const WorkData = [
     {
         imgsrc:pic1,
         title:"sri lankan camping guide",
-        text:"Web application to campers and camping site owners tobook their needs and get details about Sri Lankan camping.Technologies -MERN stack",
         view:"https:url.com"
 
     },
@@ -30,7 +27,6 @@ const WorkData = [
     {
         imgsrc:pic2,
         title:"sri lankan camping guide",
-        text:"Web application to campers and camping site owners tobook their needs and get details about Sri Lankan camping.Technologies -MERN stack",
         view:"https:url.com"
 
     }
